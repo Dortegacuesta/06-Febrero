@@ -1,0 +1,15 @@
+body{
+    font-family: 'Heebo', sans-serif;
+}
+
+.contenedor img{
+    margin: auto;
+    display: block;
+    width: 23%;
+    height: 40%;
+    float: left;
+}
+.contenedor {
+    background-color: aqua;
+    height: 500%;
+}
